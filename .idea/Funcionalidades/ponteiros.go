@@ -41,4 +41,6 @@ func main() {
 	changeValue(&a)
 
 	fmt.Println(a)
+
+	//Para demonstrar o endereço de memoria de um ponteiro adiiona o & na frente
 }

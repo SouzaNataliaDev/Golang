@@ -12,7 +12,7 @@ func main() {
 
 	users := []User{
 
-		{"John Doe", "gardener", "USA"},
+		{name:"John Doe",ocupação: "gardener",country: "USA"},
 		{"Roger Roe", "driver", "UK"},
 		{"Paul Smith", "programmer", "Canada"},
 		{"Lucia Mala", "teacher", "Slovakia"},
